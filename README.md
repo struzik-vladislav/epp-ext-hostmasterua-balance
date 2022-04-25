@@ -1,8 +1,8 @@
 # HostmasterUA Balance Extension for EPP Client
 
-Balance extension who was provided by Hostmaster LLC (https://hostmaster.ua/).
+Balance extension who was provided by [HostmasterUA](https://hostmaster.ua/).
 
-Extension for `struzik-vladislav/epp-client` library.
+Extension for [struzik-vladislav/epp-client](https://github.com/struzik-vladislav/epp-client) library.
 
 ## Usage
 ```php

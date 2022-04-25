@@ -3,9 +3,9 @@
 namespace Struzik\EPPClient\Extension\HostmasterUA\Balance\Tests\Request\Balance;
 
 use Struzik\EPPClient\Extension\HostmasterUA\Balance\Request\Balance\InfoBalanceRequest;
-use Struzik\EPPClient\Extension\HostmasterUA\Balance\Tests\EPPTestCase;
+use Struzik\EPPClient\Extension\HostmasterUA\Balance\Tests\BalanceTestCase;
 
-class InfoBalanceRequestTest extends EPPTestCase
+class InfoBalanceRequestTest extends BalanceTestCase
 {
     public function testInfo(): void
     {
